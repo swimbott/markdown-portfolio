@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+first go to [ebird](https://ebird.org/home?forceLogin=true) to look at your data
